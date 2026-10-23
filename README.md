@@ -11,7 +11,10 @@
   <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-aiidev0.github.io-8b5cf6?style=for-the-badge&logoColor=white" alt="Portafolio" />
 </a>
 <a href="https://aiberson.gumroad.com/l/ticketbot-core" target="_blank">
-  <img src="https://img.shields.io/badge/🎫_TicketBot_Core-Disponible_en_Gumroad-10b981?style=for-the-badge&logoColor=white" alt="TicketBot" />
+  <img src="https://img.shields.io/badge/🎫_TicketBot_Core-Gumroad-10b981?style=for-the-badge&logoColor=white" alt="TicketBot" />
+</a>
+<a href="https://www.npmjs.com/package/envy-core" target="_blank">
+  <img src="https://img.shields.io/badge/🛡️_Envy--Core-NPM-F59E0B?style=for-the-badge&logoColor=white" alt="Envy-Core NPM" />
 </a>
 
 </div>
@@ -19,10 +22,22 @@
 <br>
 
 ### 💻 Sobre mí
-- 🔭 Actualmente estoy construyendo herramientas para la comunidad de **Discord**.
-- 🌱 Siempre aprendiendo sobre arquitecturas limpias y **Node.js**.
+- 🔭 Actualmente estoy construyendo herramientas para la comunidad de **Discord** y **Node.js**.
+- 🌱 Siempre aprendiendo sobre arquitecturas limpias y seguridad en el backend.
 - 💬 Pregúntame sobre **JavaScript, Discord.js, MongoDB o automatizaciones**.
 - 📫 Contáctame a través de mi **[Portafolio Web](https://aiidev0.github.io/contacto/)**.
+
+<br>
+
+### 🚀 Mis Proyectos Actuales
+
+**🎫 [TicketBot Core](https://aiberson.gumroad.com/l/ticketbot-core)**
+Sistema profesional de tickets para Discord. Panel interactivo, prioridades, transcripts HTML y calificaciones de staff.
+*(Node.js · Discord.js · MongoDB)*
+
+**🛡️ [Envy-Core](https://www.npmjs.com/package/envy-core)**
+Validador y auditor de seguridad de variables de entorno para Node.js. Encriptación AES-256, bloqueo de producción y escáner de Git.
+*(TypeScript · Node.js · CLI)*
 
 <br>
 
