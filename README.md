@@ -57,7 +57,7 @@ Sistema profesional de tickets para Discord. Panel interactivo, prioridades, tra
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiidev0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0c&title_color=8b5cf6&icon_color=8b5cf6&text_color=9ca3af" alt="Estadísticas de GitHub" height="150" />
+  <img src="./github-stats.svg" alt="Estadísticas de GitHub" height="150" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiidev0&theme=tokyonight&hide_border=true&background=0a0a0c&ring=8b5cf6&fire=8b5cf6&currStreakNum=9ca3af&currStreakLabel=8b5cf6&sideNums=9ca3af&sideLabels=9ca3af&dates=9ca3af" alt="Racha de GitHub" height="150" />
 </div>
